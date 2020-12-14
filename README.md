@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+Audia Pulse
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ 
 
-## Available Scripts
+A web application that attempts to combine the basics of synthesis and audio engineering with a visual analog, demonstrating the various effects of sound in space and time and how small changes in a handful of parameters can change the output data.
 
-In the project directory, you can run:
+ 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Use Case:
 
-### `npm test`
+ 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Any one who has been interested in the fundamentals of sound can open this application and understand what is happening. The idea is to allow users a bit of theory using visualization and demonstration, then move to an open field of possibilities. Essentially an interactive museum of little sound components, each with the ability to save and share.
 
-### `npm run build`
+ 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Minimum Viable Product:
 
-### `npm run eject`
+ 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+·             Four playable, fully modular synthesizers with a variety of parameters
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+·             A timeline or transport for the user to move
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+·             Multiple visualizations, equipped with custom parameters
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+·             A login and saving feature
 
-## Learn More
+ 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Tools for the MVP:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ 
 
-### Code Splitting
+·             React/Redux
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+·             Firebase
 
-### Analyzing the Bundle Size
+·             Web Audio API
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+·             Javascript
 
-### Making a Progressive Web App
+·             HTML/CSS/SCSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+·             Vercel
 
-### Advanced Configuration
+·             p5.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+·             Tone.js
 
-### Deployment
+·             three.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ 
 
-### `npm run build` fails to minify
+Additional Features:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
+
+·             More detailed parameters for audio and visualization
+
+·             Sharing feature
+
+·             Download feature
+
+·             Effects output and modulation
+
+·             Midi input
+
+·             iOS implementation
+
+ 
+
+Additional Features Tools:
+
+                 
+
+·             Facebook/Google/Twitter/Github Authentication
+
+·             React Native
+
+ 
+
+I’m genuinely very excited about the possibilities with this project. They are effectively endless from every direction. I hope to have a final product that will blow some minds.
+
+ 
+
+Thank you
